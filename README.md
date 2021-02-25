@@ -6,6 +6,8 @@ We've seen many different styles of form management by now -- simple to complex.
 
 ## Instructions
 
+///////
+
 ### Task 1: Set Up The Project
 
 - [ ] Start off by installing a blank React app by running `npx create-react-app <app-name> --use-npm`.
@@ -60,4 +62,4 @@ The following are stretch goals that you should attempt _after_ you meet MVP for
 
 ## Submission Format
 
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
